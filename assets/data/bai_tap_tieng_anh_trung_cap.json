@@ -1,0 +1,284 @@
+{
+  "language": "vi",
+  "level": "trung cấp",
+  "total_exercises": 5,
+  "total_questions": 20,
+  "exercises": [
+    {
+      "id": 1,
+      "title": "Bài tập 1 — Thì và động từ (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D) để hoàn thành câu.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "By the time we _______ at the cinema, the film had already started.",
+          "choices": {
+            "A": "arrived",
+            "B": "had arrived",
+            "C": "will arrive",
+            "D": "arriving"
+          },
+          "answer": "A",
+          "explanation": "Câu dùng cấu trúc 'By the time + past simple' + mệnh đề chính ở past perfect hoặc past simple: 'By the time we arrived at the cinema, the film had already started.' 'Arrived' (past simple) là đúng."
+        },
+        {
+          "id": 2,
+          "question": "If she _______ harder, she would have passed the exam last month.",
+          "choices": {
+            "A": "studies",
+            "B": "had studied",
+            "C": "studied",
+            "D": "would study"
+          },
+          "answer": "B",
+          "explanation": "Đây là câu điều kiện loại 3: 'If + past perfect, would have + past participle'. Do đó 'had studied' là đúng."
+        },
+        {
+          "id": 3,
+          "question": "He _______ in that company for five years before he resigned.",
+          "choices": {
+            "A": "is working",
+            "B": "worked",
+            "C": "had worked",
+            "D": "has worked"
+          },
+          "answer": "C",
+          "explanation": "Hành động hoàn tất trước một hành động quá khứ khác → dùng past perfect: 'had worked'."
+        },
+        {
+          "id": 4,
+          "question": "By next July, I _______ my degree.",
+          "choices": {
+            "A": "will finish",
+            "B": "will have finished",
+            "C": "finished",
+            "D": "have finished"
+          },
+          "answer": "B",
+          "explanation": "Hành động hoàn tất trước thời điểm tương lai → dùng thì tương lai hoàn thành: 'will have finished'."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Bài tập 2 — Từ vựng & Collocations (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 5,
+          "question": "She made a very _______ decision to quit her job and travel.",
+          "choices": {
+            "A": "rash",
+            "B": "calm",
+            "C": "concrete",
+            "D": "gradual"
+          },
+          "answer": "A",
+          "explanation": "'Rash' nghĩa là vội vàng, thiếu suy nghĩ — phù hợp ngữ cảnh."
+        },
+        {
+          "id": 6,
+          "question": "Which word completes the collocation: 'to take _______ of'?",
+          "choices": {
+            "A": "advantage",
+            "B": "charge",
+            "C": "control",
+            "D": "notice"
+          },
+          "answer": "A",
+          "explanation": "Cụm đúng là 'take advantage of' = tận dụng."
+        },
+        {
+          "id": 7,
+          "question": "Pick the best synonym for 'reluctant'.",
+          "choices": {
+            "A": "eager",
+            "B": "willing",
+            "C": "hesitant",
+            "D": "certain"
+          },
+          "answer": "C",
+          "explanation": "'Reluctant' = miễn cưỡng → đồng nghĩa với 'hesitant'."
+        },
+        {
+          "id": 8,
+          "question": "He gave a very _______ explanation, so everyone understood the problem.",
+          "choices": {
+            "A": "vague",
+            "B": "clear",
+            "C": "complicated",
+            "D": "lengthy"
+          },
+          "answer": "B",
+          "explanation": "Ngữ cảnh chỉ ra lời giải thích dễ hiểu → 'clear' là đúng."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Bài tập 3 — Đọc hiểu ngắn (4 câu)",
+      "instructions": "Đọc đoạn văn và chọn đáp án đúng.",
+      "passage": "Tom started his new job in August. He found the work challenging but enjoyable. After three months, he got a promotion and his responsibilities increased. Although the extra duties were stressful at first, Tom felt proud of his progress.",
+      "questions": [
+        {
+          "id": 9,
+          "question": "When did Tom start his new job?",
+          "choices": {
+            "A": "May",
+            "B": "August",
+            "C": "November",
+            "D": "June"
+          },
+          "answer": "B",
+          "explanation": "Đoạn văn ghi rõ: 'Tom started his new job in August.'"
+        },
+        {
+          "id": 10,
+          "question": "How did Tom feel about the extra duties at first?",
+          "choices": {
+            "A": "Excited",
+            "B": "Bored",
+            "C": "Stressed",
+            "D": "Indifferent"
+          },
+          "answer": "C",
+          "explanation": "Câu trong đoạn: 'Although the extra duties were stressful at first...' → 'stressed'."
+        },
+        {
+          "id": 11,
+          "question": "What happened to Tom after three months?",
+          "choices": {
+            "A": "He quit.",
+            "B": "He was promoted.",
+            "C": "He moved to another city.",
+            "D": "He took a long vacation."
+          },
+          "answer": "B",
+          "explanation": "'After three months, he got a promotion' → anh ấy được thăng chức."
+        },
+        {
+          "id": 12,
+          "question": "Overall, Tom's attitude toward his progress is best described as:",
+          "choices": {
+            "A": "proud",
+            "B": "regretful",
+            "C": "indifferent",
+            "D": "angry"
+          },
+          "answer": "A",
+          "explanation": "Câu cuối: 'Tom felt proud of his progress.' → 'proud'."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Bài tập 4 — Câu bị động & Mệnh đề quan hệ (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 13,
+          "question": "The novel _______ wrote was adapted into a film last year.",
+          "choices": {
+            "A": "which",
+            "B": "that",
+            "C": "who",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "Mệnh đề quan hệ chỉ vật → dùng 'which' hoặc 'that'. Ở đây 'that' là đúng: 'The novel that he wrote...'."
+        },
+        {
+          "id": 14,
+          "question": "The instructions _______ were given to all participants.",
+          "choices": {
+            "A": "have read",
+            "B": "were read",
+            "C": "reading",
+            "D": "to read"
+          },
+          "answer": "B",
+          "explanation": "Thể bị động quá khứ đơn: 'were read'."
+        },
+        {
+          "id": 15,
+          "question": "This is the house _______ was built in 1890.",
+          "choices": {
+            "A": "which",
+            "B": "where",
+            "C": "who",
+            "D": "that"
+          },
+          "answer": "A",
+          "explanation": "'Which' thay cho vật trong mệnh đề quan hệ chủ động/bị động: 'the house which was built...'."
+        },
+        {
+          "id": 16,
+          "question": "A decision ___________ yesterday surprised everyone.",
+          "choices": {
+            "A": "made by the committee",
+            "B": "was made by the committee",
+            "C": "that made by the committee",
+            "D": "making by the committee"
+          },
+          "answer": "A",
+          "explanation": "Cụm phân từ quá khứ rút gọn: 'A decision made by the committee...'."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Bài tập 5 — Phrasal verbs, Prepositions và Ngữ pháp nâng cao (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 17,
+          "question": "She _______ up smoking last year and feels much healthier now.",
+          "choices": {
+            "A": "gave",
+            "B": "gave in",
+            "C": "gave up",
+            "D": "gave out"
+          },
+          "answer": "C",
+          "explanation": "'Give up' = từ bỏ (thói quen)."
+        },
+        {
+          "id": 18,
+          "question": "I'm looking forward _______ you at the conference next month.",
+          "choices": {
+            "A": "to meet",
+            "B": "to meeting",
+            "C": "meeting",
+            "D": "meet"
+          },
+          "answer": "B",
+          "explanation": "'Look forward to' + V-ing → 'to meeting you'."
+        },
+        {
+          "id": 19,
+          "question": "They insisted _______ paying for the meal even though we offered.",
+          "choices": {
+            "A": "on",
+            "B": "in",
+            "C": "for",
+            "D": "to"
+          },
+          "answer": "A",
+          "explanation": "'Insist on doing something' là cấu trúc đúng."
+        },
+        {
+          "id": 20,
+          "question": "Had I known about the traffic, I _______ earlier.",
+          "choices": {
+            "A": "left",
+            "B": "would left",
+            "C": "would have left",
+            "D": "will have left"
+          },
+          "answer": "C",
+          "explanation": "Câu điều kiện loại 3 đảo ngữ → 'Had I known..., I would have left...'."
+        }
+      ]
+    }
+  ]
+}

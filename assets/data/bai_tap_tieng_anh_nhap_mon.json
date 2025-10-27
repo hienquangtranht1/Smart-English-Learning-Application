@@ -1,0 +1,375 @@
+{
+  "language": "vi",
+  "level": "nhập môn",
+  "total_exercises": 5,
+  "total_questions": 20,
+  "exercises": [
+    {
+      "id": 1,
+      "title": "Bài tập 1 — Từ vựng cơ bản (20 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The opposite of 'hot' is _______.",
+          "choices": {"A": "warm", "B": "cold", "C": "cool", "D": "boiling"},
+          "answer": "B",
+          "explanation": "'Hot' (nóng) ↔ 'cold' (lạnh) là cặp từ trái nghĩa cơ bản."
+        },
+        {
+          "id": 2,
+          "question": "My mother _______ cooking very much.",
+          "choices": {"A": "like", "B": "likes", "C": "liking", "D": "liked"},
+          "answer": "B",
+          "explanation": "Chủ ngữ 'My mother' là số ít → động từ thêm 's': 'likes'."
+        },
+        {
+          "id": 3,
+          "question": "We go to school _______ foot every day.",
+          "choices": {"A": "by", "B": "on", "C": "with", "D": "at"},
+          "answer": "B",
+          "explanation": "Cụm cố định: 'on foot' = đi bộ."
+        },
+        {
+          "id": 4,
+          "question": "There _______ three apples on the table.",
+          "choices": {"A": "is", "B": "are", "C": "was", "D": "be"},
+          "answer": "B",
+          "explanation": "Danh từ số nhiều 'three apples' → dùng 'are'."
+        },
+        {
+          "id": 5,
+          "question": "She is very _______. She always helps other people.",
+          "choices": {"A": "selfish", "B": "kind", "C": "lazy", "D": "rude"},
+          "answer": "B",
+          "explanation": "'Kind' = tốt bụng, trái nghĩa với 'selfish'."
+        },
+        {
+          "id": 6,
+          "question": "The sky is full of dark clouds. It is going to _______.",
+          "choices": {"A": "rain", "B": "shine", "C": "snow", "D": "wind"},
+          "answer": "A",
+          "explanation": "Trời đầy mây đen → sắp mưa."
+        },
+        {
+          "id": 7,
+          "question": "I usually have breakfast _______ 7 o'clock.",
+          "choices": {"A": "at", "B": "in", "C": "on", "D": "for"},
+          "answer": "A",
+          "explanation": "Giờ cụ thể dùng 'at'."
+        },
+        {
+          "id": 8,
+          "question": "There is a big tree _______ the house.",
+          "choices": {"A": "next", "B": "between", "C": "behind", "D": "under"},
+          "answer": "C",
+          "explanation": "'Behind the house' = đằng sau ngôi nhà."
+        },
+        {
+          "id": 9,
+          "question": "What time _______ you go to bed?",
+          "choices": {"A": "do", "B": "does", "C": "did", "D": "doing"},
+          "answer": "A",
+          "explanation": "Chủ ngữ 'you' → dùng 'do'."
+        },
+        {
+          "id": 10,
+          "question": "A cat has _______ legs.",
+          "choices": {"A": "two", "B": "three", "C": "four", "D": "six"},
+          "answer": "C",
+          "explanation": "Mèo có bốn chân."
+        },
+        {
+          "id": 11,
+          "question": "Please open the window. It’s very _______ in here.",
+          "choices": {"A": "cold", "B": "hot", "C": "fresh", "D": "windy"},
+          "answer": "B",
+          "explanation": "Mở cửa sổ vì trong phòng nóng."
+        },
+        {
+          "id": 12,
+          "question": "She can play the piano very _______.",
+          "choices": {"A": "good", "B": "well", "C": "better", "D": "best"},
+          "answer": "B",
+          "explanation": "'Well' là trạng từ của 'good'."
+        },
+        {
+          "id": 13,
+          "question": "They _______ in Hanoi last summer.",
+          "choices": {"A": "are", "B": "was", "C": "were", "D": "is"},
+          "answer": "C",
+          "explanation": "Quá khứ của 'are' là 'were'."
+        },
+        {
+          "id": 14,
+          "question": "My father works in a hospital. He is a _______.",
+          "choices": {"A": "teacher", "B": "doctor", "C": "driver", "D": "farmer"},
+          "answer": "B",
+          "explanation": "Làm việc ở bệnh viện → 'doctor'."
+        },
+        {
+          "id": 15,
+          "question": "We need some _______ to make a cake.",
+          "choices": {"A": "money", "B": "flour", "C": "water", "D": "milk"},
+          "answer": "B",
+          "explanation": "'Flour' = bột mì."
+        },
+        {
+          "id": 16,
+          "question": "Can you speak English? — Yes, a _______.",
+          "choices": {"A": "lot", "B": "little", "C": "few", "D": "bit"},
+          "answer": "B",
+          "explanation": "'A little' dùng với danh từ không đếm được."
+        },
+        {
+          "id": 17,
+          "question": "Don't run too fast! It's very _______.",
+          "choices": {"A": "dangerous", "B": "safe", "C": "funny", "D": "beautiful"},
+          "answer": "A",
+          "explanation": "'Dangerous' = nguy hiểm."
+        },
+        {
+          "id": 18,
+          "question": "I have two brothers but I don’t have any _______.",
+          "choices": {"A": "uncle", "B": "aunt", "C": "sister", "D": "father"},
+          "answer": "C",
+          "explanation": "Không có chị/em gái → 'sister'."
+        },
+        {
+          "id": 19,
+          "question": "Let’s go to the park and _______ football.",
+          "choices": {"A": "make", "B": "do", "C": "play", "D": "go"},
+          "answer": "C",
+          "explanation": "Cụm cố định: 'play football'."
+        },
+        {
+          "id": 20,
+          "question": "My favorite color is _______.",
+          "choices": {"A": "book", "B": "blue", "C": "chair", "D": "pen"},
+          "answer": "B",
+          "explanation": "'Blue' là màu sắc."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Bài tập 2 — Ngữ pháp cơ bản (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 5,
+          "question": "She _______ from France.",
+          "choices": {
+            "A": "is",
+            "B": "are",
+            "C": "am",
+            "D": "be"
+          },
+          "answer": "A",
+          "explanation": "Chủ ngữ 'she' đi với 'is'."
+        },
+        {
+          "id": 6,
+          "question": "I _______ a student.",
+          "choices": {
+            "A": "am",
+            "B": "is",
+            "C": "are",
+            "D": "be"
+          },
+          "answer": "A",
+          "explanation": "Chủ ngữ 'I' luôn đi với 'am'."
+        },
+        {
+          "id": 7,
+          "question": "They _______ English every day.",
+          "choices": {
+            "A": "study",
+            "B": "studies",
+            "C": "studying",
+            "D": "studied"
+          },
+          "answer": "A",
+          "explanation": "Chủ ngữ số nhiều 'They' → dùng động từ nguyên thể 'study'."
+        },
+        {
+          "id": 8,
+          "question": "My name _______ John.",
+          "choices": {
+            "A": "are",
+            "B": "be",
+            "C": "is",
+            "D": "am"
+          },
+          "answer": "C",
+          "explanation": "'My name is John' là câu giới thiệu cơ bản."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Bài tập 3 — Đại từ và Mạo từ (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 9,
+          "question": "This is _______ apple.",
+          "choices": {
+            "A": "a",
+            "B": "an",
+            "C": "the",
+            "D": "some"
+          },
+          "answer": "B",
+          "explanation": "'Apple' bắt đầu bằng nguyên âm → dùng 'an'."
+        },
+        {
+          "id": 10,
+          "question": "Those are _______ books.",
+          "choices": {
+            "A": "my",
+            "B": "mine",
+            "C": "me",
+            "D": "I"
+          },
+          "answer": "A",
+          "explanation": "'My books' là cấu trúc sở hữu; 'mine' đứng một mình."
+        },
+        {
+          "id": 11,
+          "question": "_______ are you from?",
+          "choices": {
+            "A": "Who",
+            "B": "When",
+            "C": "Where",
+            "D": "What"
+          },
+          "answer": "C",
+          "explanation": "Hỏi về nơi chốn → dùng 'Where'."
+        },
+        {
+          "id": 12,
+          "question": "_______ pen is this?",
+          "choices": {
+            "A": "Who",
+            "B": "Whose",
+            "C": "Which",
+            "D": "Whom"
+          },
+          "answer": "B",
+          "explanation": "'Whose' dùng để hỏi về sở hữu: 'Whose pen is this?'."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Bài tập 4 — Câu hỏi đơn giản (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 13,
+          "question": "_______ you like ice cream?",
+          "choices": {
+            "A": "Are",
+            "B": "Do",
+            "C": "Does",
+            "D": "Have"
+          },
+          "answer": "B",
+          "explanation": "Câu hỏi hiện tại đơn với chủ ngữ 'you' → 'Do you like...?'"
+        },
+        {
+          "id": 14,
+          "question": "What _______ you doing?",
+          "choices": {
+            "A": "is",
+            "B": "are",
+            "C": "do",
+            "D": "does"
+          },
+          "answer": "B",
+          "explanation": "Hiện tại tiếp diễn: 'What are you doing?'."
+        },
+        {
+          "id": 15,
+          "question": "_______ she play the guitar?",
+          "choices": {
+            "A": "Do",
+            "B": "Did",
+            "C": "Does",
+            "D": "Is"
+          },
+          "answer": "C",
+          "explanation": "Chủ ngữ 'she' → dùng 'Does' ở thì hiện tại đơn."
+        },
+        {
+          "id": 16,
+          "question": "Where _______ you go yesterday?",
+          "choices": {
+            "A": "do",
+            "B": "did",
+            "C": "are",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "Quá khứ đơn → dùng 'did'."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Bài tập 5 — Từ chỉ thời gian và Giới từ (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 17,
+          "question": "I get up _______ 7 o’clock every morning.",
+          "choices": {
+            "A": "in",
+            "B": "at",
+            "C": "on",
+            "D": "to"
+          },
+          "answer": "B",
+          "explanation": "Giờ cụ thể → dùng 'at'."
+        },
+        {
+          "id": 18,
+          "question": "We go to school _______ Monday to Friday.",
+          "choices": {
+            "A": "on",
+            "B": "in",
+            "C": "at",
+            "D": "by"
+          },
+          "answer": "A",
+          "explanation": "Ngày trong tuần → dùng 'on'."
+        },
+        {
+          "id": 19,
+          "question": "She was born _______ 2000.",
+          "choices": {
+            "A": "on",
+            "B": "at",
+            "C": "in",
+            "D": "to"
+          },
+          "answer": "C",
+          "explanation": "Năm → dùng 'in'."
+        },
+        {
+          "id": 20,
+          "question": "We have lunch _______ noon.",
+          "choices": {
+            "A": "on",
+            "B": "at",
+            "C": "in",
+            "D": "to"
+          },
+          "answer": "B",
+          "explanation": "'At noon' là cụm cố định."
+        }
+      ]
+    }
+  ]
+}

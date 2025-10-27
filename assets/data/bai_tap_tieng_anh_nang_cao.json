@@ -1,0 +1,283 @@
+{
+  "language": "vi",
+  "level": "nâng cao",
+  "total_exercises": 5,
+  "total_questions": 20,
+  "exercises": [
+    {
+      "id": 1,
+      "title": "Bài tập 1 — Câu điều kiện nâng cao (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 1,
+          "question": "If it _______ for your help, I wouldn’t have succeeded.",
+          "choices": {
+            "A": "wasn’t",
+            "B": "weren’t",
+            "C": "hadn’t been",
+            "D": "hasn’t been"
+          },
+          "answer": "C",
+          "explanation": "Điều kiện loại 3 → 'If it hadn't been for...' (nếu không có...)."
+        },
+        {
+          "id": 2,
+          "question": "Had she known the truth, she _______ reacted differently.",
+          "choices": {
+            "A": "would have",
+            "B": "will have",
+            "C": "had",
+            "D": "would"
+          },
+          "answer": "A",
+          "explanation": "Đảo ngữ điều kiện loại 3 → 'Would have reacted' là cấu trúc đúng."
+        },
+        {
+          "id": 3,
+          "question": "If only he _______ more careful with his words.",
+          "choices": {
+            "A": "is",
+            "B": "was",
+            "C": "were",
+            "D": "had been"
+          },
+          "answer": "D",
+          "explanation": "'If only' + past perfect diễn tả tiếc nuối trong quá khứ → 'had been'."
+        },
+        {
+          "id": 4,
+          "question": "Were I you, I _______ take that job offer immediately.",
+          "choices": {
+            "A": "would",
+            "B": "will",
+            "C": "am",
+            "D": "had"
+          },
+          "answer": "A",
+          "explanation": "Cấu trúc giả định đảo ngữ 'Were I you' = 'If I were you' → dùng 'would'."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Bài tập 2 — Cấu trúc giả định & Subjunctive (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 5,
+          "question": "It is essential that he _______ present at the meeting.",
+          "choices": {
+            "A": "is",
+            "B": "was",
+            "C": "be",
+            "D": "being"
+          },
+          "answer": "C",
+          "explanation": "Mệnh đề giả định (subjunctive) → dùng 'bare infinitive' sau 'that': 'he be present'."
+        },
+        {
+          "id": 6,
+          "question": "I wish I _______ to the party last night.",
+          "choices": {
+            "A": "go",
+            "B": "went",
+            "C": "had gone",
+            "D": "have gone"
+          },
+          "answer": "C",
+          "explanation": "'Wish' + past perfect diễn tả tiếc nuối quá khứ → 'had gone'."
+        },
+        {
+          "id": 7,
+          "question": "The teacher suggested that we _______ our essays again.",
+          "choices": {
+            "A": "to check",
+            "B": "checked",
+            "C": "check",
+            "D": "checking"
+          },
+          "answer": "C",
+          "explanation": "Sau 'suggest that' → dùng dạng giả định 'bare infinitive': 'check'."
+        },
+        {
+          "id": 8,
+          "question": "If it weren’t for his laziness, he _______ have passed the exam.",
+          "choices": {
+            "A": "would",
+            "B": "will",
+            "C": "can",
+            "D": "would have"
+          },
+          "answer": "D",
+          "explanation": "Cấu trúc 'If it weren't for...' diễn tả điều giả định → kết quả hợp lý ở quá khứ là 'would have passed'."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Bài tập 3 — Từ vựng học thuật & Idioms (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 9,
+          "question": "The project was completed in the nick of time, meaning _______.",
+          "choices": {
+            "A": "too late",
+            "B": "exactly on time",
+            "C": "just before the deadline",
+            "D": "well ahead of schedule"
+          },
+          "answer": "C",
+          "explanation": "'In the nick of time' = vừa kịp lúc, ngay trước hạn chót."
+        },
+        {
+          "id": 10,
+          "question": "The manager’s speech was full of ambiguous statements, making it hard to _______.",
+          "choices": {
+            "A": "figure out his meaning",
+            "B": "ignore him",
+            "C": "believe every word",
+            "D": "praise him"
+          },
+          "answer": "A",
+          "explanation": "'Ambiguous' = mơ hồ → khó hiểu ý nghĩa."
+        },
+        {
+          "id": 11,
+          "question": "He was known for his meticulous attention _______ detail.",
+          "choices": {
+            "A": "about",
+            "B": "for",
+            "C": "in",
+            "D": "to"
+          },
+          "answer": "D",
+          "explanation": "Cụm cố định: 'attention to detail'."
+        },
+        {
+          "id": 12,
+          "question": "To make matters worse means _______.",
+          "choices": {
+            "A": "to improve the situation",
+            "B": "to make the situation worse",
+            "C": "to summarize the issue",
+            "D": "to avoid the problem"
+          },
+          "answer": "B",
+          "explanation": "Idiom 'to make matters worse' = làm tình huống tệ hơn."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Bài tập 4 — Câu bị động nâng cao (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 13,
+          "question": "It is said that she _______ the best pianist of her generation.",
+          "choices": {
+            "A": "was",
+            "B": "is",
+            "C": "being",
+            "D": "to be"
+          },
+          "answer": "B",
+          "explanation": "Cấu trúc gián tiếp: 'It is said that she is...' — giữ thì cho phù hợp."
+        },
+        {
+          "id": 14,
+          "question": "The new law is expected _______ next month.",
+          "choices": {
+            "A": "to implement",
+            "B": "to be implemented",
+            "C": "implemented",
+            "D": "implementing"
+          },
+          "answer": "B",
+          "explanation": "Sau 'is expected' dùng 'to be + past participle': 'to be implemented'."
+        },
+        {
+          "id": 15,
+          "question": "She was made _______ the truth.",
+          "choices": {
+            "A": "tell",
+            "B": "to tell",
+            "C": "telling",
+            "D": "told"
+          },
+          "answer": "B",
+          "explanation": "Ở thể bị động 'be made to do something' → 'was made to tell'."
+        },
+        {
+          "id": 16,
+          "question": "The committee insisted that the report _______ before Friday.",
+          "choices": {
+            "A": "submit",
+            "B": "submitted",
+            "C": "be submitted",
+            "D": "is submitted"
+          },
+          "answer": "C",
+          "explanation": "Sau 'insist that' trong ngữ cảnh trang trọng/biểu đạt yêu cầu → dùng subjunctive: 'be submitted'."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Bài tập 5 — Ngữ pháp phức tạp & Phrasal verbs (4 câu)",
+      "instructions": "Chọn đáp án đúng (A, B, C hoặc D).",
+      "questions": [
+        {
+          "id": 17,
+          "question": "Had it not been for his prompt action, the accident _______ far worse.",
+          "choices": {
+            "A": "become",
+            "B": "would become",
+            "C": "would have been",
+            "D": "was"
+          },
+          "answer": "C",
+          "explanation": "Câu đảo ngữ điều kiện quá khứ → 'would have been' diễn tả kết quả trong quá khứ."
+        },
+        {
+          "id": 18,
+          "question": "She takes _______ her mother in both looks and temperament.",
+          "choices": {
+            "A": "after",
+            "B": "care",
+            "C": "over",
+            "D": "on"
+          },
+          "answer": "A",
+          "explanation": "Phrasal verb 'take after' = giống ai đó (về ngoại hình/tính cách)."
+        },
+        {
+          "id": 19,
+          "question": "No sooner had we arrived _______ the concert began.",
+          "choices": {
+            "A": "than",
+            "B": "when",
+            "C": "that",
+            "D": "where"
+          },
+          "answer": "A",
+          "explanation": "Cấu trúc đảo ngữ với 'No sooner... than...'."
+        },
+        {
+          "id": 20,
+          "question": "The lecturer's explanation was so abstruse that only a few students could _______.",
+          "choices": {
+            "A": "keep up",
+            "B": "work out",
+            "C": "make out",
+            "D": "get through"
+          },
+          "answer": "C",
+          "explanation": "'Make out' = hiểu (trong ngữ cảnh khó hiểu). 'Keep up' = theo kịp; 'work out' = tìm ra; 'get through' = vượt qua."
+        }
+      ]
+    }
+  ]
+}

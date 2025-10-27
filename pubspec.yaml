@@ -1,0 +1,37 @@
+name: vn_es_demo
+description: A simple vocab app with TTS and export.
+publish_to: "none"
+version: 1.0.0+1
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_tts: ^4.0.0
+  shared_preferences: ^2.0.15
+  uuid: ^3.0.6
+  path_provider: ^2.0.15
+  intl: ^0.17.0
+  provider: ^6.0.5
+  http: ^0.13.6
+  mailer: ^5.0.0
+  flutter_dotenv: ^5.0.2
+  flutter_secure_storage: ^8.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/data/vocabulary_en_vi.json
+    - assets/data/bai_tap_tieng_anh_nhap_mon.json
+    - assets/data/bai_tap_tieng_anh_trung_cap.json
+    - assets/data/bai_tap_tieng_anh_nang_cao.json
+    - email.env
+
